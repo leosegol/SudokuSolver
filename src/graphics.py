@@ -2,7 +2,7 @@ import pygame
 
 import engine
 
-SIZE = 63
+SIZE = 63   # pixels / 10
 BLOCK_SIZE = SIZE * 10 // 9
 MID_BLOCK = BLOCK_SIZE // 2
 
